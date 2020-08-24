@@ -6,3 +6,7 @@
 
 ### [GSE152075](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152075)
 ### [GSE152418](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152418) 
+
+
+# Resources:
+1. [Differential Gene Expression Analysis using R](https://www.youtube.com/watch?v=r-tNCuUf41o)
